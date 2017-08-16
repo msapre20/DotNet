@@ -1,0 +1,12 @@
+c:\users\msapre\documents\visual studio 2015\Projects\PalindromeSubstring\PalindromeSubstring\bin\Debug\PalindromeSubstring.exe.config
+c:\users\msapre\documents\visual studio 2015\Projects\PalindromeSubstring\PalindromeSubstring\bin\Debug\PalindromeSubstring.exe
+c:\users\msapre\documents\visual studio 2015\Projects\PalindromeSubstring\PalindromeSubstring\bin\Debug\PalindromeSubstring.pdb
+c:\users\msapre\documents\visual studio 2015\Projects\PalindromeSubstring\PalindromeSubstring\obj\Debug\PalindromeSubstring.csprojResolveAssemblyReference.cache
+c:\users\msapre\documents\visual studio 2015\Projects\PalindromeSubstring\PalindromeSubstring\obj\Debug\PalindromeSubstring.exe
+c:\users\msapre\documents\visual studio 2015\Projects\PalindromeSubstring\PalindromeSubstring\obj\Debug\PalindromeSubstring.pdb
+C:\Users\msapre\Desktop\Code\PalindromeSubstring\PalindromeSubstring\bin\Debug\PalindromeSubstring.exe.config
+C:\Users\msapre\Desktop\Code\PalindromeSubstring\PalindromeSubstring\obj\Debug\PalindromeSubstring.exe
+C:\Users\msapre\Desktop\Code\PalindromeSubstring\PalindromeSubstring\obj\Debug\PalindromeSubstring.pdb
+C:\Users\msapre\Desktop\Code\PalindromeSubstring\PalindromeSubstring\bin\Debug\PalindromeSubstring.exe
+C:\Users\msapre\Desktop\Code\PalindromeSubstring\PalindromeSubstring\bin\Debug\PalindromeSubstring.pdb
+C:\Users\msapre\Desktop\Code\PalindromeSubstring\PalindromeSubstring\obj\Debug\PalindromeSubstring.csprojResolveAssemblyReference.cache
