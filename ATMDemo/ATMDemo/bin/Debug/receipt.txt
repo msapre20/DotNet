@@ -1,0 +1,3 @@
+Details of account number: 2088
+Available balance is $12,000.00
+Total balance is $15,000.00
