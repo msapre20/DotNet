@@ -1,0 +1,12 @@
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\bin\Debug\SandwichSelectorr.exe.config
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\bin\Debug\SandwichSelectorr.exe
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\bin\Debug\SandwichSelectorr.pdb
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\obj\Debug\SandwichSelectorr.csprojResolveAssemblyReference.cache
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\obj\Debug\SandwichSelectorr.Properties.Resources.resources
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\obj\Debug\SandwichSelectorr.csproj.GenerateResource.Cache
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\obj\Debug\SandwichSelectorr.exe
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\obj\Debug\SandwichSelectorr.pdb
+c:\users\msapre\documents\visual studio 2015\Projects\SandwichSelectorr\SandwichSelectorr\obj\Debug\SandwichSelectorr.frmOrder.resources
+C:\Users\msapre\Desktop\Code\SandwichSelectorr\SandwichSelectorr\bin\Debug\SandwichSelectorr.exe.config
+C:\Users\msapre\Desktop\Code\SandwichSelectorr\SandwichSelectorr\obj\Debug\SandwichSelectorr.exe
+C:\Users\msapre\Desktop\Code\SandwichSelectorr\SandwichSelectorr\obj\Debug\SandwichSelectorr.pdb
